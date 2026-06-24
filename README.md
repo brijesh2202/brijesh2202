@@ -6,6 +6,10 @@
 
 <div align="center">
 
+<img src="./melbourne-banner.png" alt="Melbourne — Flinders Street Station (pixel art)" width="100%" />
+
+<br/><br/>
+
 <a href="https://brijesh-muralikrishnan-olive-nine.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=800&size=30&duration=3000&pause=800&color=FF5C00&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Brijesh+Muralikrishnan;Turning+data+into+decisions+that+ship;Master+of+Data+Science+%E2%80%A2+Machine+Learning" alt="typing banner" />
 </a>
